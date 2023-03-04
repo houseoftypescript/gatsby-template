@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Gatsby Template",
   "main": "index.js",
-  "repository": "git@github.com:houseofmystery/gatsby-template.git",
+  "repository": "git@github.com:houseoftypescript/gatsby-template.git",
   "author": "hieudoanm <hieumdoan@gmail.com>",
   "license": "MIT",
   "private": true,
@@ -24,6 +24,8 @@
   },
   "dependencies": {
     "gatsby": "5.7.0",
+    "gatsby-plugin-image": "3.7.0",
+    "gatsby-source-contentful": "8.7.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
